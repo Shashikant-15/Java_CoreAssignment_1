@@ -1,5 +1,25 @@
 # Java_CoreAssignment_1
 
+
+# README
+
+## Clone the Github Repository
+
+Use the below clone command to clone the repository.
+
+```bash
+git clone https://https://github.com/Shashikant-15/Java_CoreAssignment_1.git
+```
+### Change the working directory to the cloned directory
+
+```bash
+cd ./Java_CoreAssignment_1
+```
+### For Executtion of the code
+
+```bash
+cd src
+```
 ## Assignment Questions:
 
 ### Q1.Write a Java program to return true if a given string contain the string 'pop', but the middle 'o' also may other character.
